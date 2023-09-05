@@ -7,7 +7,7 @@ body  {
    background-color: #F6F8F9;
 }
 .Titologo  {
-    font-size: 60px;
+    font-size: 50px;
     text-align: center;
     display: inline-block;
     vertical-align: middle;
@@ -19,7 +19,7 @@ section {
 }
 .top-pagina{
     background-color: white;
-    height: 110px;
+    height: 100px;
     
 }
 .bottoni{
@@ -52,7 +52,7 @@ ul{
 .stilebottone{
     border-radius: 5px;
     background-color:#47ADF1;
-    width: 80px;
+    width: 90px;
     height: 30px;
     color: white;
     border-color: rgb(172, 169, 169);
@@ -60,7 +60,7 @@ ul{
 .stilebottone2{
     border-radius: 5px;
     background-color: white;
-    width: 80px;
+    width: 90px;
     height: 30px;
     color: rgb(168, 164, 164);
     margin-bottom: 1%;
@@ -76,25 +76,19 @@ ul{
     height: 20px;
     display: inline-block;
     line-height: 15px;
-    font-size: 19px;
+    font-size: 13px;
+    text-align: center;
 }
 
-.celle {
-    display: inline-block;
-    border: 2px solid;
-    border-radius: 20px;
-    padding:5px;
-    color: white;
-    font-size: 12px;
-}
+
 .editorial{
     background-color:#45ABEA ;
     display: inline-block;
     border: 2px solid;
     border-radius: 20px;
-    padding:7px;
+    padding:6px 12px 6px 12px;
     color: white;
-    font-size: 12px;
+    font-size: 13px;
 }
 li {
     margin-top: 2%;
@@ -104,9 +98,9 @@ li {
     display: inline-block;
     border: 2px solid;
     border-radius: 20px;
-    padding:7px;
+    padding:6px 12px 6px 12px;
     color: white;
-    font-size: 12px;
+    font-size: 13px;
 }
 .colore-simbolo2{
     color: rgb(209, 14, 14);
@@ -116,7 +110,8 @@ li {
     height: 21px;
     display: inline-block;
     line-height: 17px;
-    font-size: 23px;
+    font-size: 17px;
+    text-align:center;
     
     
 }
@@ -125,18 +120,18 @@ li {
     display: inline-block;
     border: 2px solid;
     border-radius: 20px;
-    padding:7px;
+    padding:6px 12px 6px 12px;
     color: white;
-    font-size: 12px;
+    font-size: 13px;
 }
 .Mobile{
     background-color:#e27f0e ;
     display: inline-block;
     border: 2px solid;
     border-radius: 20px;
-    padding:7px;
+    padding:6px 12px 6px 12px;
     color: white;
-    font-size: 12px;
+    font-size: 13px;
     
 }
 .Website{
@@ -144,18 +139,18 @@ li {
     display: inline-block;
     border: 2px solid;
     border-radius: 20px;
-    padding:7px;
+    padding:6px 12px 6px 12px;
     color: white;
-    font-size: 12px;
+    font-size: 13px;
 }
 .Sales{
     background-color:#6d9b4e ;
     display: inline-block;
     border: 2px solid;
     border-radius: 20px;
-    padding:7px;
+    padding: 6px 12px 6px 12px;
     color: white;
-    font-size: 12px;
+    font-size: 13px;
 }
 
 

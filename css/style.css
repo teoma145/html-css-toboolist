@@ -78,26 +78,33 @@ ul{
     line-height: 15px;
     font-size: 19px;
 }
-.editorial{
+
+.celle {
     display: inline-block;
-    background-color:#45ABEA ;
     border: 2px solid;
-    border-radius: 10px;
-    padding:3px;
+    border-radius: 20px;
+    padding:5px;
     color: white;
     font-size: 12px;
-    
-    
+}
+.editorial{
+    background-color:#45ABEA ;
+    display: inline-block;
+    border: 2px solid;
+    border-radius: 20px;
+    padding:7px;
+    color: white;
+    font-size: 12px;
 }
 li {
     margin-top: 2%;
 }
 .Q1{
-    display: inline-block;
     background-color:#a725a0 ;
+    display: inline-block;
     border: 2px solid;
-    border-radius: 10px;
-    padding:3px;
+    border-radius: 20px;
+    padding:7px;
     color: white;
     font-size: 12px;
 }
@@ -111,17 +118,45 @@ li {
     line-height: 17px;
     font-size: 23px;
     
+    
 }
 .Recruiting{
+    background-color:#3bafd3;
     display: inline-block;
-    background-color:#3bafd3 ;
     border: 2px solid;
-    border-radius: 10px;
-    padding:3px;
-    color: rgb(255, 255, 255);
+    border-radius: 20px;
+    padding:7px;
+    color: white;
     font-size: 12px;
 }
-
+.Mobile{
+    background-color:#e27f0e ;
+    display: inline-block;
+    border: 2px solid;
+    border-radius: 20px;
+    padding:7px;
+    color: white;
+    font-size: 12px;
+    
+}
+.Website{
+    background-color:#c755aa ;
+    display: inline-block;
+    border: 2px solid;
+    border-radius: 20px;
+    padding:7px;
+    color: white;
+    font-size: 12px;
+}
+.Sales{
+    background-color:#6d9b4e ;
+    display: inline-block;
+    border: 2px solid;
+    border-radius: 20px;
+    padding:7px;
+    color: white;
+    font-size: 12px;
+}
 
 
     

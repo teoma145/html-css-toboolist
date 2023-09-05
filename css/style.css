@@ -15,6 +15,7 @@ body  {
 }  
 section {
     margin-top: 3%;
+    margin-left: 5%;
 }
 .top-pagina{
     background-color: white;
@@ -22,11 +23,33 @@ section {
     
 }
 .bottoni{
-    margin-top:3%;
+    margin-top: 5%;
+    margin-left:  4%;;
+    border-radius: 20px;
+    padding-top: 2%;
+    
+    
 }
 .logo{
     width: 100px;
     height: auto;
     display: inline-block;
     vertical-align: middle;
+}
+.sfondobianco{
+    background-color: white;
+    margin-left:  15%;
+    margin-right: 15%;
+    
+}
+.linea{
+    opacity: 0.3;
+    color: grey;
+}
+ul{
+    list-style-type: none;
+}
+.stilebottone{
+    border-radius: 5px;
+    background-color: white;
 }

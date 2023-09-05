@@ -7,8 +7,26 @@ body  {
    background-color: #F6F8F9;
 }
 .Titologo  {
-    font-size: 32px;
+    font-size: 60px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    
 }  
 section {
     margin-top: 3%;
+}
+.top-pagina{
+    background-color: white;
+    height: 110px;
+    
+}
+.bottoni{
+    margin-top:3%;
+}
+.logo{
+    width: 100px;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
 }

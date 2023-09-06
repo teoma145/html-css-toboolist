@@ -92,6 +92,7 @@ ul{
 }
 li {
     margin-top: 2%;
+    font-size: 22px;
 }
 .Q1{
     background-color:#a725a0 ;
@@ -153,6 +154,10 @@ li {
     font-size: 13px;
 }
 
-
+h2{
+    font-size: 28px;
+}
     
-    
+ main{
+    padding-bottom: 3%;
+ }   
